@@ -1,0 +1,32 @@
+company:
+  name: Team 62
+  logo: logo.png
+product_hmw: How might we provide visually intuitive, personalized financial recommendations based on transaction history to users who are not data savvy?
+product_narrative: |
+  With the world of finance being as myriad and complex as it is, it's difficult to understand and automate all of the ways in which you can manage your financial health, especially as a contract worker. Here's a product to centralize, optimize and personalize your finances, including tax benefits, health insurance choices and personalized recommendations for other available schemes.
+team:
+  picture: team.jpg
+  roster:
+  - name: Athalia Soemarko
+    email: aks297@cornell.edu
+    picture: athalia.jpg
+    program: LLM
+  - name: Manu Sharma
+    email: mas625@cornell.edu
+    picture: manu.png
+    program: MBA
+  - name: Yiqi Wang
+    email: yw2328@cornell.edu
+    picture: yiqi.png
+    program: Design
+  - name: Zhenglun Chen
+    email: yc447@cornell.edu
+    picture: zhenglun.png
+    program: CS
+  - name: Ananya Shivaditya
+    email: aks298@cornell.edu
+    picture: ananya.png
+    program: CS
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/1Q2oZCahRvMQexJQZzHDAYERIYNTf4Qy-78fDQ1Wr0y8/edit?usp=sharing
