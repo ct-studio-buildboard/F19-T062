@@ -13,19 +13,19 @@ team:
     program: LLM
   - name: Manu Sharma
     email: mas625@cornell.edu
-    picture: manu.png
+    picture: manu.jpg
     program: MBA
   - name: Yiqi Wang
     email: yw2328@cornell.edu
-    picture: yiqi.png
+    picture: yiqi.jpg
     program: Design
   - name: Zhenglun Chen
     email: yc447@cornell.edu
-    picture: zhenglun.png
+    picture: zhenglun.jpg
     program: CS
   - name: Ananya Shivaditya
     email: aks298@cornell.edu
-    picture: ananya.png
+    picture: ananya.jpg
     program: CS
 assets:
 - title: Sprint 1
