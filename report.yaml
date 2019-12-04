@@ -3,7 +3,7 @@ company:
   logo: logo.png
 product_hmw: How might we provide visually intuitive, personalized financial recommendations based on transaction history to users who are not data savvy?
 product_narrative: |
-  With the world of finance being as myriad and complex as it is, it's difficult to understand and automate all of the ways in which you can manage your financial health, especially as a contract worker. Here's a product to centralize, optimize and personalize your finances, including tax benefits, health insurance choices and personalized recommendations for other available schemes.
+  BRIDGE: An application that (1) records your financial goals, (2) generates recommendations to improve your finances, and (3) helps you stay on track to make your financial dream into reality.
 team:
   picture: team.jpg
   roster:
@@ -32,3 +32,5 @@ assets:
   url: https://docs.google.com/presentation/d/1Q2oZCahRvMQexJQZzHDAYERIYNTf4Qy-78fDQ1Wr0y8/edit?usp=sharing
 - title: Sprint 2
   url: https://docs.google.com/presentation/d/1KkVYkM2IcUT2bzsCs_X3ysJVvT4MZqK0ULjWEQtcMNI/edit?usp=sharing
+- title: Sprint 3
+  url: https://docs.google.com/presentation/d/1hmunamwlqs4U_AoV-1rkfzFwSNVBq2glLNCWgHdM5sg/edit?usp=sharing
