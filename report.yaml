@@ -9,23 +9,23 @@ team:
   roster:
   - name: Athalia Soemarko
     email: aks297@cornell.edu
-    picture: athalia.jpg
+    picture: ATHALIA.jpeg
     program: LLM
   - name: Manu Sharma
     email: mas625@cornell.edu
-    picture: manu.jpg
+    picture: MANU.jpeg
     program: MBA
   - name: Yiqi Wang
     email: yw2328@cornell.edu
-    picture: yiqi.jpg
+    picture: YIQI.jpeg
     program: Design
   - name: Zhenglun Chen
     email: yc447@cornell.edu
-    picture: zhenglun.jpg
+    picture: ZHENGLUN.jpeg
     program: CS
   - name: Ananya Shivaditya
     email: aks298@cornell.edu
-    picture: ananya.jpg
+    picture: ANANYA.jpeg
     program: CS
 assets:
 - title: Sprint 1
