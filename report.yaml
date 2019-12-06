@@ -1,31 +1,31 @@
 company:
   name: Team 62
-  logo: logo.png
+  logo: pics/logo.png
 product_hmw: How might we provide visually intuitive, personalized financial recommendations based on transaction history to users who are not data savvy?
 product_narrative: |
   BRIDGE: An application that (1) records your financial goals, (2) generates recommendations to improve your finances, and (3) helps you stay on track to make your financial dream into reality.
 team:
-  picture: team.jpg
+  picture: pics/team.jpg
   roster:
   - name: Athalia Soemarko
     email: aks297@cornell.edu
-    picture: ATHALIA.jpeg
+    picture: pics/ATHALIA.jpeg
     program: LLM
   - name: Manu Sharma
     email: mas625@cornell.edu
-    picture: MANU.jpeg
+    picture: pics/MANU.jpeg
     program: MBA
   - name: Yiqi Wang
     email: yw2328@cornell.edu
-    picture: YIQI.jpeg
+    picture: pics/YIQI.jpeg
     program: Design
   - name: Zhenglun Chen
     email: yc447@cornell.edu
-    picture: ZHENGLUN.jpeg
+    picture: pics/ZHENGLUN.jpeg
     program: CS
   - name: Ananya Shivaditya
     email: aks298@cornell.edu
-    picture: ANANYA.jpeg
+    picture: pics/ANANYA.jpeg
     program: CS
 assets:
 - title: Sprint 1
