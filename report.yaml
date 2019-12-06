@@ -3,7 +3,7 @@ company:
   logo: pics/logo.png
 product_hmw: How might we provide visually intuitive, personalized financial recommendations based on transaction history to users who are not data savvy?
 product_narrative: |
-  BRIDGE: An application that (1) records your financial goals, (2) generates recommendations to improve your finances, and (3) helps you stay on track to make your financial dream into reality.
+  BRIDGE: This is an application platform (web and mobile) that helps you to save money. It’s been built to facilitate understanding of your financial health, and incentivises you to compete and collaborate with others. You can (1) record your financial goals, (2) monitor your performance against goals, (3) view performance of others with similar goals (4) compete and collaborate with others to save more.
 team:
   picture: pics/team.jpg
   roster:
