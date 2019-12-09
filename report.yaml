@@ -45,6 +45,8 @@ assets:
 - title: Final Presentation - In Class
   url: https://github.com/ct-studio-buildboard/F19-T062/blob/master/site/Final%20Presentation%20-%20In%20Class.pdf
 - title: Prototype
-  url: https://github.com/ct-studio-buildboard/F19-T062/blob/master/site/prototype.mov
-- title: Demo Video
   url: https://xd.adobe.com/view/f15c00d3-34ee-405c-6734-d08a1bffcec4-876d/screen/d8a6bcd8-9e54-4fdf-9653-b297766af08f/View-Goal?fullscreen&hints=off
+- title: Demo Video
+  url: https://github.com/ct-studio-buildboard/F19-T062/blob/master/site/prototype.mov
+- title: code
+  url: https://github.com/ct-studio-buildboard/F19-T062/blob/master/code
